@@ -1,6 +1,5 @@
+![Capture](https://github.com/user-attachments/assets/0588ed42-3d92-4929-8863-d283d5190227)
 ```markdown
-![hello][https://imgur.com/cVp5XjM]
-
 # Password Manager
 
 A simple password manager built in Python that allows you to securely store and manage your passwords. The passwords are encrypted for security, and the application provides functionalities to generate, view, add, and delete passwords.
