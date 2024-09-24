@@ -73,13 +73,3 @@ Feel free to contribute! Open an issue or submit a pull request for any enhancem
 ### Acknowledgments
 
 - Thanks to the developers of the `cryptography` and `pyperclip` libraries for their excellent work.
-```
-
-### Instructions to Use the README
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- Review the content and customize it further if necessary based on your project's needs.
-
-### Saving the README
-Make sure to save this content in a file named `README.md` in the root of your GitHub repository alongside your project files.
-
-This README file provides a clear and concise guide for users and contributors, detailing everything they need to know about using your password manager. If you need any more modifications or have questions, feel free to ask!
