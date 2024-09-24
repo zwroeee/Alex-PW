@@ -31,6 +31,7 @@ To run this password manager, you will need:
    ```
    cryptography
    pyperclip
+   pyinstaller
    ```
 
 3. Install the required libraries using pip:
