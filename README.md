@@ -1,5 +1,5 @@
 ```markdown
-![]([http://url/to/img.png](https://imgur.com/cVp5XjM))
+![hello][https://imgur.com/cVp5XjM]
 
 # Password Manager
 
