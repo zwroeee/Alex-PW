@@ -15,10 +15,7 @@ A simple password manager built in Python that allows you to securely store and 
 
 To run this password manager, you will need:
 
-- **Python 3.x**: Make sure Python 3 is installed on your machine. [Download Python](https://www.python.org/downloads/).
-- **Required Libraries**: The following Python libraries are required:
-  - `cryptography`: For encrypting and decrypting passwords.
-  - `pyperclip`: For managing clipboard operations.
+- **Windows**: This executable is built for Windows. Make sure your system meets the requirements for running `.exe` files.
 
 ### Installation
 
@@ -28,28 +25,12 @@ To run this password manager, you will need:
    cd password-manager
    ```
 
-2. Create a `requirements.txt` file in the root directory of the cloned repository with the following content:
-   ```
-   cryptography
-   pyperclip
-   pyinstaller
-   ```
+2. **Running the Application**:
+   - Navigate to the `dist` folder where the `password_manager.exe` file is located.
+   - Double-click on `password_manager.exe` to run the application.
 
-3. Install the required libraries using pip:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Script**:
-   - Open terminal or command prompt.
-   - Execute the following command:
-     ```bash
-     python password_manager.py
-     ```
-
-5. **Configuration**:
-   - Set a master password within the script by modifying the `MASTER_PASSWORD` variable.
-   - The script will generate a `secret.key` file for encryption upon initial run.
+3. **Configuration**:
+   - Upon initial run, the application will generate a `secret.key` file for encryption.
 
 ### Usage
 
